@@ -1,5 +1,5 @@
 function y=make_label(x)
-%% ¼ÆËãÀà±ð
+%% è®¡ç®—ç±»åˆ«
 for i=1:length(x)
 if x(i)>=0&&x(i)<=0.2
    y(i)=3;
